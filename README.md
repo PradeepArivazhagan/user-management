@@ -1,11 +1,12 @@
 User Management - Assignment By Pradeep for the position of frontend developer at Global Groupware Solutions Limited
 
-Live Link: 
+Live Link: https://user-management-pradeep-arivazhagan.vercel.app/
 
 Step To Run in Local System: 1) npm install 
                              2) npm run dev
 
-Login Credential: 
+Login Credential: Email ID: eve.holt@reqres.in 
+                  Password: cityslicka
 
 
 Tools: VS Code.
